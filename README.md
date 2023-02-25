@@ -1,6 +1,9 @@
 ### Nice to meet you! 👋
-I coded [mactor](https://gamejolt.com/games/mactor/709362).
-Soon [Inspiranium.fr](https://inspiranium.fr)
+I coded [mactor](https://gamejolt.com/games/mactor/709362)
+### Soon
+[Inspiranium.fr](https://inspiranium.fr)
+
+### Stats
 
 [![VictorDalet's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordalet&theme=vue-dark&show_icons=true&hide_border=true)](https://victordalet.lescigales.org/)
 <br>
