@@ -1,7 +1,6 @@
 ### Nice to meet you! 👋
-I coded [mactor](https://gamejolt.com/games/mactor/709362)
-### Soon
-[Inspiranium.fr](https://inspiranium.fr)
+### I coded [mactor](https://gamejolt.com/games/mactor/709362)
+### AND [Inspiranium.fr](https://inspiranium.fr)
 
 ### Stats
 
